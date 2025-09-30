@@ -365,3 +365,16 @@ If this project impressed you or helped in any way, I'd appreciate:
 
 </div>
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What this means:
+- ✅ **Commercial use** - Use in commercial projects
+- ✅ **Modification** - Modify and adapt the code  
+- ✅ **Distribution** - Share and distribute freely
+- ✅ **Private use** - Use in private projects
+- ℹ️ **Attribution required** - Credit the original author
+
+---
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
