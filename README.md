@@ -360,7 +360,7 @@ If this project impressed you or helped in any way, I'd appreciate:
 
 *Built with ❤️ and cutting-edge technology*
 
-**© 2024 Uzain Mohid | AI Smart Expense Tracker**
+**© 2025 Uzain Mohid | AI Smart Expense Tracker**
 
 </div>
 
